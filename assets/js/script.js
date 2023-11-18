@@ -4,7 +4,7 @@ const surname = prompt("Qual'è il tuo Cognome?");
 
 const colorPrefer = prompt("Qual'è il tuo Colore preferito?");
 
-const passwordGenerator = name + surname + colorPrefer + 23;
+const passwordGenerator = name + surname + colorPrefer + "23";
 
 console.log(passwordGenerator);
 
